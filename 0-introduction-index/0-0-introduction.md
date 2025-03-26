@@ -15,3 +15,5 @@ Expect future revisions, expansions, and clarifications as we learn more, receiv
 Think of this as version 1.0 – a solid starting point, but just the beginning of a much larger journey.  
 
 So, dive in, don't be afraid to experiment, and get ready to make some noise!.
+
+...
