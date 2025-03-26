@@ -2,13 +2,20 @@
 
 * [Eurorack Synthesizers for Dummies](README.md)
 
+## Introduction/Index
+
+* [Page 1](0-introduction-index/0-0-introduction.md)
+* [Page 2](0-introduction-index/0-1-faq.md)
+* [Page 3](0-introduction-index/0-2-index.md)
+
 ## An Introduction to Eurorack Modular Synthesis
 
-* [Page 1](an-introduction-to-eurorack-modular-synthesis/page-1.md)
+* [Page 4](1-an-introduction-to-eurorack-modular-synthesis1-1-a-brief-introduction-to-eurorack-modular-synthesizers.md)
+* [Page 5](1-an-introduction-to-eurorack-modular-synthesis/1-2-the-history-eurorack-synhesizers.md)
 
 ## A Deep Dive Into the Modular Madness
 
-* [Page 2](a-deep-dive-into-the-modular-madness/page-2.md)
+* [Page 6](2-a-deep-dive-into-the-modular-madness/2-1-what-is-eurorack.md)
 
 ## A Rundown of Eurorack Synth Components
 
