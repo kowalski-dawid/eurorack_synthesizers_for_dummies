@@ -1,4 +1,4 @@
-Introductory notes to the initial edition
+## Introductory notes to the initial edition
 
 Welcome to the very first edition of "Eurorack Synthesizers for Dummies"!
 
