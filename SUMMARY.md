@@ -1,6 +1,6 @@
 # Table of contents
 
-* [eurorack\_synthesizers\_for\_dummies](README.md)
+* [Eurorack Synthesizers for Dummies](README.md)
 
 ## An Introduction to Eurorack Modular Synthesis
 
