@@ -1,10 +1,26 @@
 # Introductory notes to the initial edition
 
+<figure>
+  <picture>
+    <source
+      srcset="
+        images/001_synth.jpeg
+      "
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="images/001_synth.jpeg"
+      alt="Modular Synthesizer_001"
+    />
+  </picture>
+  <figcaption>A modular synthesizer</figcaption>
+</figure>
+
 Welcome to the very first edition of "Eurorack Synthesizers for Dummies"!
 
 Consider this your initial plunge into the exciting, and sometimes perplexing, world of modular synthesis.
 
-We're starting you off with the foundational knowledge to get those cables connected and those oscillators humming. 
+We're starting you off with the foundational knowledge to get those cables connected and those oscillators humming.
 
 Keep in mind, this is a living document.
 
