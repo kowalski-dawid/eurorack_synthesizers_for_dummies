@@ -22,7 +22,7 @@
 
 * [Module Types](3-a-rundown-of-eurorack-synth-components/3-1-module-types.md)
 * [Eurorack Modular Cases](3-a-rundown-of-eurorack-synth-components/3-2-eurorack-modular-cases.md)
-* [Eurorack Modular Power Supplu](a-rundown-of-eurorack-synth-components/eurorack-modular-power-supplu.md)
+* [Eurorack Modular Power Supply](a-rundown-of-eurorack-synth-components/eurorack-modular-power-supply.md)
 * [Installation and Assembly Instructions](3-a-rundown-of-eurorack-synth-components/3-4-installation-and-assembly-instructions.md)
 
 ## The War of Arts in the Modular World
