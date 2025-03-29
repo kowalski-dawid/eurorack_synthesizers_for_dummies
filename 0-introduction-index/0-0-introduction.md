@@ -7,6 +7,7 @@ coverY: 0
 ---
 
 <<<<<<< Updated upstream
+
 # Introduction
 
 <figure><picture><source srcset="images/001_synth.jpeg" media="(prefers-color-scheme: dark)"><img src="images/001_synth.jpeg" alt="Modular Synthesizer_001"></picture><figcaption><p>A modular synthesizer</p></figcaption></figure>
