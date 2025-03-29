@@ -24,8 +24,6 @@ layout:
 
 ## Introductory notes to the initial edition
 
-{% embed url="https://youtu.be/reKe5-c7Fis?si=nj-8BC0nUptkpqQO" %}
-
 Welcome to the very first edition of "Eurorack Synthesizers for Dummies"!\
 Consider this your initial plunge into the exciting, and sometimes perplexing, world of modular synthesis. We're starting you off with the foundational knowledge to get those cables connected and those oscillators humming.
 
@@ -37,6 +35,10 @@ Expect future revisions, expansions, and clarifications as we learn more, receiv
 Think of this as version 1.0 – a solid starting point, but just the beginning of a much larger journey.
 
 So, dive in, don't be afraid to experiment, and get ready to make some noise!.
+
+{% embed url="https://youtu.be/reKe5-c7Fis?si=nj-8BC0nUptkpqQO" %}
+Courtesy of Aminals. Link: [www.youtube.com/@aminal5](http://www.youtube.com/@aminal5)
+{% endembed %}
 
 ## About:
 
