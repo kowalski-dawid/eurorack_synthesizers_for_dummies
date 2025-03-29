@@ -1,4 +1,5 @@
 ---
+description: Opening and welcome words.
 icon: square-exclamation
 cover: >-
   https://images.unsplash.com/photo-1618577468440-6706245765ea?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxldXJvcmFja3xlbnwwfHx8fDE3NDMyNTM3OTZ8MA&ixlib=rb-4.0.3&q=85
