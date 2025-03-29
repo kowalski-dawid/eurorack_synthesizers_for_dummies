@@ -1,7 +1,7 @@
 ---
 icon: square-exclamation
 cover: >-
-  https://images.unsplash.com/photo-1617293109458-f51db3f9e033?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzeW50aHxlbnwwfHx8fDE3NDMyNTM1Nzl8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1618577468440-6706245765ea?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxldXJvcmFja3xlbnwwfHx8fDE3NDMyNTM3OTZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
