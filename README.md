@@ -1,4 +1,5 @@
 ---
+description: Editorial, opening words, credits, and all that.
 icon: piano-keyboard
 cover: >-
   https://images.unsplash.com/photo-1618577467931-5df1b84c320d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxldXJvcmFja3xlbnwwfHx8fDE3NDMyNTM3OTZ8MA&ixlib=rb-4.0.3&q=85
