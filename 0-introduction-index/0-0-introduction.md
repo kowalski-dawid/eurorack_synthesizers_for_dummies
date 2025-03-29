@@ -6,9 +6,27 @@ cover: >-
 coverY: 0
 ---
 
+<<<<<<< Updated upstream
 # Introduction
 
 <figure><picture><source srcset="images/001_synth.jpeg" media="(prefers-color-scheme: dark)"><img src="images/001_synth.jpeg" alt="Modular Synthesizer_001"></picture><figcaption><p>A modular synthesizer</p></figcaption></figure>
+=======
+<figure>
+  <picture>
+    <source
+      srcset="
+        images/001_synth.jpge
+      "
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"
+      alt="GitHub logo"
+    />
+  </picture>
+  <figcaption>Caption text</figcaption>
+</figure>
+>>>>>>> Stashed changes
 
 Welcome to the very first edition of "Eurorack Synthesizers for Dummies"!
 
@@ -24,6 +42,6 @@ Expect future revisions, expansions, and clarifications as we learn more, receiv
 
 Think of this as version 1.0 – a solid starting point, but just the beginning of a much larger journey.
 
-So, dive in, don't be afraid to experiment, and get ready to make some noise!.
+So, dive in, don't be afraid to experiment, and get ready to make some noise!
 
 Updated on: 2024-03-26
