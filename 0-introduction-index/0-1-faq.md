@@ -1,7 +1,7 @@
 ---
 icon: comment-check
 cover: >-
-  https://images.unsplash.com/photo-1617293109458-f51db3f9e033?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzeW50aHxlbnwwfHx8fDE3NDMyNTM1Nzl8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1618577468985-b1d6af8a2d2c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxldXJvcmFja3xlbnwwfHx8fDE3NDMyNTM3OTZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
