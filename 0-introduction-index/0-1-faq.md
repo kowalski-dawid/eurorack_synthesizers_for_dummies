@@ -1,4 +1,11 @@
-# Frequently Asked Questions
+---
+icon: piano-keyboard
+cover: >-
+  https://images.unsplash.com/photo-1617293109458-f51db3f9e033?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzeW50aHxlbnwwfHx8fDE3NDMyNTM1Nzl8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# FAQ
 
 ## 1. Question #1. What's the fuss all about?
 
@@ -46,9 +53,9 @@ Modular synthesis has gained significant popularity for several reasons:
 
 **Boutique Manufacturing:** Many Eurorack modules are produced by small, independent manufacturers or boutique companies with limited production runs, which drives up costs.Hand-Assembled Units: Some modules are hand-assembled and tested, which increases labor costs but ensures attention to detail and quality control.
 
-2.3. **Research and Development (R&D)**
+2.3. **Research and Development (R\&D)**
 
-**Innovative Designs:** Developing new and innovative modules requires significant R&D, including circuit design, prototyping, and testing.Specialized Knowledge: The designers often have deep expertise in electronics and sound design, which commands higher compensation.
+**Innovative Designs:** Developing new and innovative modules requires significant R\&D, including circuit design, prototyping, and testing.Specialized Knowledge: The designers often have deep expertise in electronics and sound design, which commands higher compensation.
 
 2.4. **Customization and Variety**
 
@@ -81,6 +88,7 @@ Modular synthesis has gained significant popularity for several reasons:
 All these factors contribute to the higher cost of Eurorack modular synthesizers, but they also ensure that users get a highly customizable, durable, and sonically superior product tailored to their specific creative needs.
 
 ## Question #3. Is it worth the price and the effort?
+
 Whether Eurorack synthesis is worth the price and effort depends on individual preferences, goals, and values. Here are some aspects to consider:
 
 3.1. **Pros:**
@@ -121,7 +129,7 @@ Whether Eurorack synthesis is worth the price and effort depends on individual p
 
 **Endless Options:** The vast array of available modules and patching possibilities can be overwhelming, leading to option paralysis.Maintenance and Upkeep: Regular maintenance, such as cleaning and troubleshooting connections, is required to keep the system in optimal condition.
 
-**The Bottom Line:** Is It Worth It?
+**The Bottom Line:** Is It Worth It?
 
 **For Passionate Enthusiasts:** If you're deeply interested in sound design, electronic music, and enjoy hands-on, exploratory learning, Eurorack synthesis can be incredibly rewarding.
 
