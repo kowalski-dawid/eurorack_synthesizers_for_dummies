@@ -9,7 +9,6 @@ coverY: 0
 
 # Glossary of Terms
 
-=======
 Amplifier: A circuit or device that alters the amplitude of a signal .   
 AR Envelope: An acronym for a simple two-stage modulation envelope: Attack, Release. Typically implies a Sustain stage held high as long as the gate is active .   
 Attack: The first stage of an envelope, which establishes the length of time it takes for an envelope to reach its peak voltage after the initiating key or gate is received .   
@@ -133,5 +132,4 @@ Velocity: In MIDI, the force with which a key is pressed, often translated to co
 Wavefolder: A specific type of waveshaping that inverts the peaks of a waveform into a series of folds once its amplitude exceeds a set threshold .   
 Waveform: The shape of a periodic signal, such as sine, square, sawtooth, or triangle .   
 Waveshaper: A device or circuit that transforms one type of waveform into another .   
-West Coast Synthesis: An approach to electronic instrument design, inspired by Donald Buchla, often involving complex waveform generation and audio rate modulation .
->>>>>>> Stashed changes
+West Coast Synthesis: An approach to electronic instrument design, inspired by Donald Buchla, often involving complex waveform generation and audio rate modulation.
