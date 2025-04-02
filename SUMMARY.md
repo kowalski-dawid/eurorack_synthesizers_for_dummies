@@ -36,4 +36,5 @@
 * [List of Images](5-literature-and-references/5-3-list-of-images.md)
 
 ## Contributors
+
 * [Credits][(6-contributors/6-1-credits.md)]
