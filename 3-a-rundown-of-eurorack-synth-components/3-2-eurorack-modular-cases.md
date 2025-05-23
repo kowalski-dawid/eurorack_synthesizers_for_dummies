@@ -3,6 +3,20 @@ description: Hey, your brand new modules need a decent case!
 icon: crate-empty
 cover: ../.gitbook/assets/Moog-60HP-powered-eurorack-case.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Eurorack Modular Cases

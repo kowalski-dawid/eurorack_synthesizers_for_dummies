@@ -4,6 +4,20 @@ icon: spell-check
 cover: >-
   https://images.unsplash.com/photo-1583361704493-d4d4d1b1d70a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkaWN0aW9uYXJ5fGVufDB8fHx8MTc0ODAzNDk0OXww&ixlib=rb-4.1.0&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Glossary of Terms

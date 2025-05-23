@@ -3,6 +3,20 @@ description: How to make your Eurorack system come alive?
 icon: plug-circle-bolt
 cover: ../.gitbook/assets/tiptop-audio-zeus-access-3x-studio-bus-bundle.jpg
 coverY: -150
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Eurorack Modular Power Supply

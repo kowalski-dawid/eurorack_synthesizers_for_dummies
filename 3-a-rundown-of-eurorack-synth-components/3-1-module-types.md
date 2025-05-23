@@ -3,6 +3,20 @@ description: There's quite a number of them, so please focus here.
 icon: objects-column
 cover: ../.gitbook/assets/pexels-theplanetspeaks-9314143.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Module Types
