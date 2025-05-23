@@ -121,5 +121,3 @@ US manufacturer known for performance-oriented and utility modules.
 ### 20. XAOC Devices
 Polish company with a focus on complex, feature-rich modules.
 - **Notable Modules:** Zadar, Batumi, Odessa
-
----
