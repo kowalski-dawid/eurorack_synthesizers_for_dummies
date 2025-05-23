@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
 ---
-
 description: The key terms related to Eurorack modular synthesis.
 icon: spell-check
 cover: >-

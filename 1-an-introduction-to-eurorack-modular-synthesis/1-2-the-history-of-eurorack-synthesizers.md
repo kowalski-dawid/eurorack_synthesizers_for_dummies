@@ -1,16 +1,27 @@
+---
+description: Whoa, how did it come to be?
+icon: book-open-reader
+cover: >-
+  https://images.unsplash.com/photo-1618577467894-b0320ac39f5a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxldXJvcmFja3xlbnwwfHx8fDE3NDMyNTM3OTZ8MA&ixlib=rb-4.0.3&q=85
+cover: 0
+---
+
 # The History of Eurorack Synthesizers
 
-The year-by-year evolution highlights how Eurorack synthesis transformed from a niche format into a widely celebrated and influential component of modern electronic music.
+The development of modular synthesizers spans several decades, evolving from large, experimental systems to the compact and accessible Eurorack format. The table below highlights key milestones in the history of modular synthesis.
 
-| No. | Year | Event |
-| --- | --- | --- |
-| 1 | 1995 | **Birth of Eurorack:** Dieter Doepfer, a German engineer, introduces the Eurorack modular synthesizer format with the A-100 system. This new format uses a standardized size (3U) and power specifications, making it affordable and compact compared to earlier modular systems. |
-| 2 | Late 1990s | **Initial Adoption:** Early adopters in Europe begin exploring Eurorack systems, attracted by the modular flexibility and affordability compared to larger, more expensive formats like Moog or Buchla. |
-| 3 | Early 2000s | **Slow but Steady Growth:** Eurorack remains a niche market, with Doepfer as the primary manufacturer. Small boutique companies begin to emerge, offering unique and experimental modules. |
-| 4 | 2005 | **Diverse Module Development:** Manufacturers like Analogue Systems and Analogue Solutions start producing Eurorack modules, adding variety to the ecosystem. The appeal of modular synthesis begins to spread beyond Europe. |
-| 5 | 2009 | **Explosive Growth:** The modular synthesis scene starts gaining momentum in the U.S. Companies like Make Noise and Tiptop Audio enter the market, bringing innovative designs and expanding the creative possibilities of Eurorack. |
-| 6 | 2010 | **Renaissance of Modular Synthesis:** The global interest in modular synthesis surges, driven by new manufacturers and increased accessibility. Eurorack systems start to appear more frequently in electronic music production and live performances. |
-| 7 | 2011 - 2015 | **Mainstream Integration:** The Eurorack format sees widespread adoption across various music genres. Companies like Mutable Instruments, Intellijel, and 4ms contribute to the growing diversity of modules. The introduction of digital modules alongside analog expands the sonic potential of Eurorack. |
-| 8 | 2016 | **Popularity Boom:** The rise of social media, online tutorials, and a growing community of modular enthusiasts help popularize Eurorack. More musicians and producers begin to integrate modular systems into their setups. |
-| 9 | 2017-2019 | **Cultural Phenomenon:** Eurorack modular synthesis becomes a cultural movement, with dedicated events, festivals (like Superbooth), and an expanding global community. The DIY culture flourishes, with many users building their own modules. |
-| 10 | 2020 - present | **Sustained Growth:** Despite challenges like the COVID-19 pandemic, the Eurorack market continues to thrive. New companies emerge, and established brands push the boundaries of what modular synthesis can achieve. The format is now widely recognized as a powerful tool for music production, sound design, and live performance, solidifying its place in the electronic music landscape. |
+| No. | Year           | Event |
+| --- | -------------- | ----- |
+| 1   | 1960s          | **Early Modular Synths:** Pioneers like Robert Moog and Don Buchla develop the first modular synthesizer systems, introducing voltage control and patchable modules. |
+| 2   | 1970s          | **Commercial Expansion:** Modular systems become more widely available, but are still large, expensive, and mainly used in studios and academia. Companies like Moog, ARP, and Roland contribute to the market. |
+| 3   | 1980s          | **Decline and Miniaturization:** Modular synthesis declines in popularity due to the rise of compact, affordable digital synthesizers and polyphonic keyboards. |
+| 4   | 1995           | **Birth of Eurorack:** Dieter Doepfer introduces the Eurorack format with the A-100 system, making modular synthesis more affordable and compact. |
+| 5   | Late 1990s     | **Initial Adoption:** Early adopters in Europe begin exploring Eurorack systems, attracted by their flexibility and lower cost compared to legacy formats. |
+| 6   | Early 2000s    | **Boutique Growth:** Small companies and DIY builders start producing unique and experimental modules, expanding the Eurorack ecosystem. |
+| 7   | 2005           | **Diverse Module Development:** Manufacturers like Analogue Systems and Analogue Solutions join the market, increasing module variety and appeal. |
+| 8   | 2009           | **US Expansion:** Companies like Make Noise and Tiptop Audio enter the scene, bringing innovative designs and expanding Eurorack’s creative possibilities. |
+| 9   | 2010           | **Renaissance:** Global interest in modular synthesis surges, with more manufacturers and increased accessibility. Modular systems become more common in music production and live performance. |
+| 10  | 2011–2015      | **Mainstream Integration:** Eurorack sees widespread adoption across genres. Companies like Mutable Instruments, Intellijel, and 4ms diversify the market, and digital modules expand sonic potential. |
+| 11  | 2016           | **Popularity Boom:** Social media, online tutorials, and a growing community help popularize Eurorack. More musicians and producers integrate modular systems into their setups. |
+| 12  | 2017–2019      | **Cultural Phenomenon:** Modular synthesis becomes a movement, with dedicated events (like Superbooth) and a flourishing DIY culture. The global community expands rapidly. |
+| 13  | 2020–present   | **Sustained Growth:** Despite global challenges, the Eurorack market thrives. New companies emerge, established brands innovate, and modular synthesis is recognized as a powerful tool for music production, sound design, and live performance. |

@@ -8,8 +8,6 @@ coverY: 0
 
 # Notable Artists in the World of Modular Synthesis
 
-
-
 ## Caterina Barbieri
 
 ### Biography
@@ -35,8 +33,6 @@ Caterina Barbieri's discography showcases a consistent exploration of her core s
 | _Spirit Exit_               | 2022         | Light-years                | LP     |
 | _Myuthafoo_                 | 2023         | Light-years                | LP     |
 
-Eksportuj do Arkuszy
-
 Beyond her studio albums, Barbieri has also released several notable EPs, including _**XKatedral Volume III**_ (2016, with Ellen Arkbro & Kali Malone), _**Remote Sensing**_ (2017, as Punctum with Carlo Maria), which featured stripped-down compositions using Roland TB303 and TR606, _**Sogno che suona**_ (2018), and _**Fantas Variations**_ (2021, Editions Mego), a collection of reworks and interpretations of the _Ecstatic Computation_ track "Fantas," including "Fantas for Electric Guitar" performed with Walter Zanetti, which was later featured in a film soundtrack.
 
 Collaboration forms a significant aspect of Caterina Barbieri's artistic practice. She has an ongoing collaboration with Kali Malone as Upper Glossa, exploring sounds from electric guitars and synthesizers. Together, they released _XKatedral Volume III_ and co-composed a music piece for Massimo Bartolini's organ at the Italian Pavilion during the 2024 Venice Biennale. They also performed as Upper Glossa at Berlin Atonal. Her collaboration with visual artist Ruben Spini has resulted in the audiovisual show _Time-blind_ and extended to the live performances for _Spirit Exit_, where they worked with lighting designer Marcel Weber. They also created the installation _AURORA WOUNDS_ for Berlin Art Week. With Carlo Maria, she formed the project Punctum, releasing the EP _Remote Sensing_. She collaborated with Lyra Pramuk on the track ‘Knot Of Spirit’, which became the debut release on her light-years label. General collaborations are also mentioned with Bendik Giske and Drew McDowall. She performed "Fantas for Electric Guitar" with Walter Zanetti. More recently, she collaborated with Space Afrika and MFO (Marcel Weber) for a performance at Berlin Atonal 2023 and Le Guess Who?. Barbieri has also extended her creative practice to film, scoring the soundtrack for Pascual Sisto's movie _John and the Hole_ (2020), which was selected at Cannes 2020 and Sundance 2021. Additionally, she has scored fashion shows for renowned brands such as Fendi, Gucci, Calvin Klein, and Off-White. Her involvement in film scoring and fashion indicates a broadening of her artistic practice beyond traditional album releases and live performances, showcasing her versatility and appeal to different creative industries. Her forays into installations further highlight her interest in exploring the spatial and sensory dimensions of sound, extending her artistic practice beyond the confines of traditional musical formats. These installations include _AURORA WOUNDS_ (with Ruben Spini, Zeiss Major Planetarium, Berlin Art Week, 2020), _MASTERS OF MODERN SOUND_ (Art Gallery of NSW, Sydney, 2019), _BEYOND THE NUCLEAR GARDEN_ (Yuz Museum, Shanghai, 2018), a music piece co-composed with Kali Malone for Massimo Bartolini's organ at the Italian Pavilion, Venice Biennale (2024), _Womb_ (premiered in Paris, commissioned by IRCAM and Centre Pompidou, 2024), and _Due qui/To hear_ (sound and environmental installation with Kali Malone for Massimo Bartolini, Italian Pavilion, Venice Biennale).
@@ -51,8 +47,6 @@ Collaboration forms a significant aspect of Caterina Barbieri's artistic practic
 | Space Afrika, Marcel Weber | Live Performance                                      | 2023       |
 | Pascual Sisto              | _John and the Hole_ (Film Score)                      | 2020       |
 
-Eksportuj do Arkuszy
-
 Caterina Barbieri's early career saw a rapid ascent in the electronic music scene. Following her first release, _Vertical_ (2014), her work was extensively presented at festivals and venues worldwide. She participated in major music festivals early in her career, including Unsound, Atonal, Primavera Sound, and Sonar, and performed in prestigious venues such as the Barbican Centre, Philharmonie de Paris, Berghain, Biennale di Venezia, Centre Pompidou, IRCAM, and Ina GRM. Her collaboration with the influential Berlin Atonal festival began in 2016, leading to various multimedia projects, including the premiere of Upper Glossa with Kali Malone at the festival in the same year. This rapid gain in international recognition through performances at key festivals and venues indicates early validation of her artistic vision within the experimental electronic music community. Her early association with the influential Berlin Atonal festival further cemented her position in the scene. A significant marker of her growing recognition came in 2019 when she was included in the catalogue of the historic music publisher Warp Publishing. Being included in Warp Publishing's catalogue is a significant marker of recognition and places her alongside influential figures in electronic and experimental music, suggesting a high level of respect within the industry.
 
 Caterina Barbieri's work has garnered significant critical acclaim and recognition. Her album _**Patterns of Consciousness**_ was considered one of the best releases of 2017 by publications such as The Wire, Fact, and Vice. _**Ecstatic Computation**_ received widespread praise, being named one of the best albums of the year by numerous international critical magazines and earning the title of record of the year on Bleep. Rolling Stone Italia also included it among the best Italian records of the decade. Her 2022 album, _**Spirit Exit**_, was featured on Best of 2022 lists by artists like Tess Roby and Pallbearer bassist NAME. Barbieri's talent extends to scoring for film, with her soundtrack for _John and the Hole_ being selected at the Cannes and Sundance film festivals. Her music video for "Broken Melody" received a nomination for BEST MUSIC at the Creative Film Awards Los Angeles. A significant achievement came in 2024 with her appointment as the Artistic Director of the Music Department for the Venice Biennale for the two-year period of 2025-2026. The President of La Biennale lauded her as "a living bridge between eras, styles and sectors". While specific major awards like Grammys are not mentioned for Barbieri, the consistent critical acclaim for her albums, her inclusion in prestigious lists, and her appointment to a significant artistic directorship role indicate a high level of recognition and influence in the contemporary music world.
@@ -62,8 +56,6 @@ In 2021, Caterina Barbieri established her own independent label platform, light
 In conclusion, Caterina Barbieri has firmly established herself as a significant and influential voice in contemporary electronic music. Her innovative approach to modular synthesis and the exploration of profound philosophical and psychoacoustic themes have garnered international recognition through critically acclaimed albums, captivating performances, and diverse collaborations. As the founder of the influential light-years label and the newly appointed Artistic Director of the Music Department for the Venice Biennale, Barbieri continues to evolve as an artist, pushing boundaries and exploring new sonic territories. Her work offers a compelling synthesis of technical mastery, intellectual depth, and a unique artistic vision that resonates deeply within the contemporary musical landscape.
 
 ### BandCamp
-
-
 
 {% embed url="https://caterinabarbieri.bandcamp.com/" %}
 Caterina Barbieri's BandCamp.
@@ -79,15 +71,98 @@ Catering Barbieri's "Fantas".
 
 ### Biography
 
+## The Sonic Explorations of Keith Fullerton Whitman: Bridging Analog Tradition and Digital Innovation
 
+Keith Fullerton Whitman is a pioneering figure in experimental electronic music, renowned for his innovative approach to sound synthesis and his deep engagement with both analog and digital technologies. Based in Cambridge, Massachusetts, Whitman’s work traverses the boundaries between academic computer music, modular synthesis, and improvisational performance. His music is celebrated for its intricate layering, dynamic structures, and the seamless integration of historical synthesis techniques with contemporary digital processes. Critics have described his output as “a masterclass in electronic sound design” and “a living archive of synthesis knowledge,” highlighting his unique ability to bridge the past and future of electronic music. Whitman’s influence extends beyond his recordings, as he is also recognized for his educational efforts, writings, and curatorial projects within the modular and experimental music communities.
 
+Born in 1973 in Somerville, Massachusetts, Keith Fullerton Whitman developed an early fascination with sound and technology. He began playing guitar and experimenting with tape recorders as a child, later gravitating toward electronic instruments and computers. Whitman studied computer music at the Berklee College of Music, where he immersed himself in the study of synthesis, algorithmic composition, and electroacoustic techniques. This academic foundation provided him with a rigorous understanding of both the technical and conceptual aspects of electronic music. During his time at Berklee, Whitman was influenced by the works of pioneers such as Iannis Xenakis, Morton Subotnick, and Laurie Spiegel, as well as the vibrant Boston experimental music scene. His early projects, including the influential Hrvatski alias, explored breakcore, glitch, and IDM, foreshadowing his later interest in modular synthesis and generative systems.
 
+Whitman’s initial forays into electronic music were marked by a restless curiosity and a willingness to embrace both analog and digital tools. In the late 1990s, he began collecting and restoring vintage synthesizers, tape machines, and modular systems, which became central to his compositional process. His landmark album _Playthroughs_ (2002) showcased his ability to transform electric guitar and signal processing into lush, immersive soundscapes, earning widespread critical acclaim. Whitman’s subsequent work increasingly focused on modular synthesis, particularly the use of Eurorack and vintage Serge and Buchla systems. He is known for his live performances, which often involve real-time patching, algorithmic control, and the exploration of feedback and generative processes. Whitman’s approach is characterized by a deep respect for the unpredictability and physicality of analog systems, balanced by a sophisticated use of digital control and processing.
 
+At the heart of Keith Fullerton Whitman’s musical philosophy is a fascination with process, transformation, and the materiality of sound. His compositions often unfold as evolving sonic ecosystems, where simple inputs are subjected to complex chains of modulation, filtering, and spatialization. Whitman’s work is informed by a broad range of influences, from early electronic and computer music to free improvisation, minimalism, and noise. He has cited the importance of “listening as a compositional act,” emphasizing the role of intuition and discovery in his creative process. Whitman’s music is frequently described as immersive and meditative, yet it retains a sense of playfulness and surprise, reflecting his ongoing dialogue with the machines he employs. His live sets are renowned for their spontaneity and technical virtuosity, often blurring the line between composition and improvisation.
 
+Whitman’s discography is both extensive and diverse, encompassing solo albums, collaborative projects, and site-specific installations. His early releases as Hrvatski explored frenetic breakbeats and digital manipulation, while his later work under his own name delves into ambient, drone, and generative synthesis. Notable albums include _Playthroughs_ (2002), a landmark in processed guitar and ambient music; _Multiples_ (2005), which explores modular synthesis and algorithmic composition; and _Generators_ (2012), a series of long-form pieces for analog and digital synthesis. Whitman has also released music on esteemed labels such as Kranky, Planet Mu, Editions Mego, and Root Strata. His collaborative projects include work with Greg Davis, Matmos, and Tony Conrad, among others. In addition to his recorded output, Whitman has contributed to the field through lectures, workshops, and writings on synthesis and electronic music history.
 
+| Title             | Release Date | Label      | Format |
+| ----------------- | ------------ | ---------- | ------ |
+| _Playthroughs_    | 2002         | Kranky     | CD/LP  |
+| _Multiples_       | 2005         | Kranky     | CD/LP  |
+| _Generators_      | 2012         | Editions Mego | LP   |
+| _Greatest Hits_   | 2013         | Planet Mu   | LP    |
+| _21 Minutes for Voice & Synthesizer_ | 2018 | Shelter Press | LP |
 
+Beyond his solo work, Whitman has engaged in numerous collaborations and interdisciplinary projects. He has performed and recorded with artists such as Greg Davis (as “Yearlong”), Matmos, Tony Conrad, and Alan Licht. Whitman is also known for his curatorial activities, including running the influential Mimaroglu Music Sales distribution service and organizing events that highlight experimental and electronic music. His educational outreach includes lectures and workshops at institutions such as Harvard, MIT, and Berklee, where he shares his expertise in synthesis, algorithmic composition, and electronic music history.
 
+| Collaborator(s) | Project/Release         | Year       |
+| --------------- | ----------------------- | ---------- |
+| Greg Davis      | Yearlong                | 2005       |
+| Matmos          | Live Performances       | 2000s–2010s|
+| Tony Conrad     | Collaborative concerts  | 2000s      |
+| Alan Licht      | Duo performances        | 2010s      |
 
+Keith Fullerton Whitman’s career has been marked by critical acclaim and recognition within the experimental and electronic music communities. _Playthroughs_ is widely regarded as a modern classic, and his work has been featured in publications such as The Wire, Pitchfork, and Resident Advisor. Whitman’s influence extends to a new generation of electronic musicians, many of whom cite his innovative use of modular synthesis and live processing as formative. His contributions as a performer, educator, and curator have helped shape the discourse around modular synthesis and experimental music in the 21st century.
 
+In summary, Keith Fullerton Whitman stands as a vital and influential figure in contemporary electronic music. His adventurous spirit, technical mastery, and commitment to sonic exploration have earned him a lasting place in the history of modular synthesis. Through his recordings, performances, and educational efforts, Whitman continues to inspire and challenge listeners, fostering a deeper appreciation for the art and science of electronic sound.
 
+### BandCamp
 
+{% embed url="https://keithfullertonwhitman.bandcamp.com/" %}
+Keith Fullerton Whitman's BandCamp.
+{% endembed %}
+
+### Live performance
+
+{% embed url="https://www.youtube.com/watch?v=6kQ1rQJ5r8w" %}
+Keith Fullerton Whitman – Live Modular Synth Performance
+{% endembed %}
+
+## Richard Devine
+
+### Biography
+
+## The Sonic Architectures of Richard Devine: Pushing the Boundaries of Modular Synthesis and Digital Sound Design
+
+Richard Devine is an acclaimed American electronic musician, sound designer, and modular synthesis pioneer based in Atlanta, Georgia. Renowned for his intricate, hyper-detailed compositions and innovative approach to sound design, Devine has become a leading figure in the world of experimental electronic music and modular synthesis. His work is characterized by a fusion of granular textures, complex rhythms, and immersive sonic environments, often blurring the lines between music, technology, and art. Critics have described his output as “sonic maximalism” and “a masterclass in digital and analog synthesis,” underscoring his reputation as a visionary in the field of electronic sound.
+
+Born in 1977, Richard Devine’s fascination with sound began at an early age, experimenting with tape recorders, computers, and early synthesizers. He was influenced by the pioneering works of Autechre, Aphex Twin, and the Warp Records roster, as well as the experimental ethos of early industrial and electroacoustic music. Devine’s formal education in computer science and music technology provided a strong foundation for his later explorations in synthesis, algorithmic composition, and audio programming. His early releases, such as _Lipswitch_ (2001) and _Aleamapper_ (2003), showcased his unique blend of glitch, IDM, and granular synthesis, quickly earning him recognition in the international electronic music community.
+
+Devine’s approach to music is deeply rooted in experimentation and technological innovation. He is known for his extensive use of modular synthesizers, both Eurorack and Buchla, as well as custom software environments like Max/MSP and Reaktor. His compositions often involve generative processes, algorithmic sequencing, and real-time manipulation, resulting in ever-evolving soundscapes that challenge conventional notions of structure and form. Devine’s live performances are celebrated for their technical virtuosity and immersive audiovisual experiences, often featuring elaborate modular setups and custom-built instruments.
+
+Beyond his solo work, Richard Devine is a prolific sound designer, contributing to major projects in film, video games, and technology. He has created factory presets and sound libraries for leading synthesizer manufacturers such as Moog, Native Instruments, and Roland, and his sound design work can be heard in products by Google, Apple, and Microsoft. Devine’s expertise in spatial audio and immersive sound has also led to collaborations with companies like Dolby and BMW, further expanding his influence beyond the music world.
+
+At the core of Devine’s artistic philosophy is a relentless pursuit of new sonic possibilities. He views modular synthesis as a playground for exploration, where unpredictability and chance play a central role in the creative process. His music is often described as “cinematic,” “otherworldly,” and “technologically transcendent,” reflecting his ability to harness the full potential of both analog and digital tools. Devine’s commitment to pushing the boundaries of sound has inspired a new generation of electronic musicians and sound designers, cementing his status as a true innovator.
+
+Richard Devine’s discography is a testament to his versatility and creative vision. Notable albums include _Lipswitch_ (2001), a landmark in glitch and IDM; _Aleamapper_ (2003), which explores generative composition and granular synthesis; and _Sort\Lave_ (2018), a critically acclaimed work composed almost entirely on a Eurorack modular system. His releases on labels such as Schematic, Warp, and Planet Mu have garnered widespread acclaim, and his music has been featured in films, commercials, and art installations worldwide.
+
+| Title             | Release Date | Label      | Format |
+| ----------------- | ------------ | ---------- | ------ |
+| _Lipswitch_       | 2001         | Schematic  | CD/LP  |
+| _Aleamapper_      | 2003         | Schematic  | CD/LP  |
+| _Risp_            | 2012         | Detroit Underground | LP |
+| _Sort\Lave_       | 2018         | Planet Mu  | LP     |
+| _Systik_          | 2020         | Detroit Underground | LP |
+
+Collaboration and interdisciplinary work are central to Devine’s career. He has worked with artists such as Telefon Tel Aviv, Jimmy Edgar, and Richard Chartier, and has contributed to projects with visual artists, choreographers, and technologists. Devine is also a sought-after educator, sharing his knowledge through workshops, lectures, and masterclasses at institutions like Berklee College of Music, Georgia Tech, and international festivals.
+
+| Collaborator(s)      | Project/Release         | Year       |
+| -------------------- | ---------------------- | ---------- |
+| Telefon Tel Aviv     | Collaborative tracks   | 2000s      |
+| Jimmy Edgar          | Live performances      | 2010s      |
+| Richard Chartier     | Sound art installations| 2010s      |
+| Moog, Native Instruments, Roland | Factory presets & sound design | 2000s–present |
+
+Richard Devine’s work has been widely recognized by critics and peers alike. His albums have been featured in publications such as The Wire, Resident Advisor, and FACT Magazine, and he has received awards for his contributions to sound design and electronic music. Devine’s influence extends to the worlds of technology, film, and interactive media, where his innovative approach to sound continues to shape the future of audio.
+
+In summary, Richard Devine stands as a trailblazer in contemporary electronic music and modular synthesis. His technical mastery, creative vision, and commitment to sonic exploration have earned him a lasting place in the pantheon of electronic music innovators. Through his recordings, performances, and educational efforts, Devine continues to inspire and challenge audiences, pushing the boundaries of what is possible in sound.
+
+### BandCamp
+
+{% embed url="https://richarddevine.bandcamp.com/" %}
+Richard Devine's BandCamp.
+{% endembed %}
+
+### Live performance
+
+{% embed url="https://www.youtube.com/watch?v=4nQvF1zQF2w" %}
+Richard Devine – Live Modular Synth Performance
+{% endembed %}
