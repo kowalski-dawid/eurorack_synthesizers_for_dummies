@@ -1,17 +1,16 @@
-<<<<<<< Updated upstream
 ---
-
-description: The key terms related to Eurorack modular synthesis.
+description: Learn them by heart!
 icon: spell-check
 cover: >-
-  <https://images.unsplash.com/photo-1583361704493-d4d4d1b1d70a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkaWN0aW9uYXJ5fGVufDB8fHx8MTc0MzI1NjQ0NXww&ixlib=rb-4.0.3&q=85>
+  https://images.unsplash.com/photo-1693278615710-44007173a18e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbG9zc2FyeXxlbnwwfHx8fDE3NDgwMzcyMTR8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
 # Glossary of Terms
 
 **Amplifier:** A circuit or device that alters the amplitude of a signal.
-AR Envelope: An acronym for a simple two-stage modulation envelope: Attack, Release. Typically implies a Sustain stage held high as long as the gate is active.
+
+**AR Envelope**: An acronym for a simple two-stage modulation envelope: Attack, Release. Typically implies a Sustain stage held high as long as the gate is active.
 
 **Attack:** The first stage of an envelope, which establishes the length of time it takes for an envelope to reach its peak voltage after the initiating key or gate is received.
 
@@ -33,7 +32,7 @@ AR Envelope: An acronym for a simple two-stage modulation envelope: Attack, Rele
 
 **Carrier:** In FM synthesis, the oscillator that produces the sound we hear, whose frequency is modulated by another oscillator.
 
-**Case:** The enclosure that houses the Eurorack modules and often contains the power supply . Also known as a Rack.
+**Case:** The enclosure that houses the Eurorack modules and often contains the power supply. Also known as a Rack.
 
 **Clock:** A component or device in a synthesizer that produces clean, precisely-timed pulses according to a set frequency, serving as a time reference for synchronizing other parts of the system.
 
@@ -51,11 +50,11 @@ AR Envelope: An acronym for a simple two-stage modulation envelope: Attack, Rele
 
 **Control Voltage (CV):** Signals (usually at relatively low frequencies) carried over patch cables to allow one module to influence the behavior of another module over time.
 
-**Current Draw:** The amount of electrical current a module consumes, usually measured in milliamperes (mA) .
+**Current Draw:** The amount of electrical current a module consumes, usually measured in milliamperes (mA).\
 Cutoff Frequency: The point at which a filter begins to attenuate frequencies.
 
-**DAW (Digital Audio Workstation):** A software application used for recording, editing, and producing audio .
-DC Coupled: An input that can accept and pass constant or slowly changing DC voltages without altering them .
+**DAW (Digital Audio Workstation):** A software application used for recording, editing, and producing audio.\
+DC Coupled: An input that can accept and pass constant or slowly changing DC voltages without altering them.\
 Decay: The stage of an envelope that determines the time it takes for the signal to fall from the peak to the sustain level.
 
 **Delay (Audio Effect):** An echo-like effect where an input signal is recorded, stored, and played back later.
@@ -138,7 +137,7 @@ Decay: The stage of an envelope that determines the time it takes for the signal
 
 **Normalled:** A default internal signal connection within a semi-modular synthesizer that can be overridden by patching.
 
-**Notch Filter:** A filter that attenuates a narrow band of frequencies . Also known as a Band Reject Filter.
+**Notch Filter:** A filter that attenuates a narrow band of frequencies. Also known as a Band Reject Filter.
 
 **Offset:** Adding a fixed voltage to a signal, shifting its overall voltage range.
 
@@ -170,45 +169,86 @@ Decay: The stage of an envelope that determines the time it takes for the signal
 
 **Power Supply:** The component that provides the necessary electrical power to the modules in a Eurorack case.
 
-Pulse Width: The duration of the high portion of a pulse wave or square wave's cycle .
-Quantizer: A device or module that receives a continuous voltage signal and outputs the nearest voltage corresponding to a note in a selected musical scale .
-Rack: See Case.
-Ramp: A voltage that steadily rises or falls, often used to describe the shape of certain waveforms or envelope stages .
-Ratchet: A sequencing technique that causes certain notes to repeat multiple times at a faster rate than a set clock rate .
-Release: The final stage of an envelope, determining the time it takes for the signal to fall from the sustain level to zero after the gate is released .
-Resonance: A boost in amplitude at or near the cutoff frequency of a filter .
-Ring Modulator: A type of sound processor that manipulates the amplitude of a carrier signal with another signal (modulator), resulting in an output containing only sum and difference frequencies .
-Sample and Hold: A device that captures the value of a continuous analog signal at its input and holds it at the output for a duration specified by a trigger .
-Sawtooth Wave: A waveform characterized by a sharp rise and gradual fall, rich in harmonics .
-Sequencer: A hardware or software controller device used to record and organize musical events across single or multiple playable timelines .
-Semi-Modular Synth: A synthesizer with default internal signal connections that can be overridden using patch points .
-Sine Wave: A basic analog waveform with evenly-spaced curves and a smooth tone, often referred to as the fundamental .
-Skiff: A portable, shallow enclosure for Eurorack modular synthesizers .
-Slew Limiter: A circuit that limits a signal's possible rate of change, often used to smooth jittery signals or create glide/portamento effects . Also known as a Slope Generator or Lag Processor .
-Square Wave: A waveform that alternates abruptly between two voltage levels, rich in odd harmonics .
-Stereo: An audio signal with two channels, typically left and right .
-Strike: An input found on some modules that use vactrols, designed to create percussive sounds and attacks .
-Subtractive Synthesis: A synthesis technique that creates sounds by filtering harmonically rich waveforms to shape their timbre .
-Sustain: The level at which the signal is held while the gate is active in an ADSR envelope .
-Sync: In the context of oscillators, a mode where one oscillator resets its waveform based on the cycle of another oscillator .
-Synthesis: The process of creating sound electronically .
-Tempo: The speed or pace of a musical piece, often measured in beats per minute (BPM) .
-Through-Zero FM: A type of frequency modulation where the carrier frequency can go below zero, resulting in cleaner and more harmonically rich FM sounds .
-Track & Hold: A variation of Sample & Hold where the output tracks the input voltage while the gate is high and holds the last value when the gate goes low .
-Tracking: Refers to how well an oscillator follows the pitch control voltage sent to it .
-Transistor Ladder Filter: An iconic low-pass filter design, known for its warm, round, bassy response .
-Trigger: A brief, instantaneous pulse of voltage used to initiate a specific action within a module .
-Triangle Wave: A waveform with a symmetrical triangular shape, containing only odd harmonics .
-TRS (Tip-Ring-Sleeve): A type of connector with three conductive parts, commonly used for stereo audio or balanced mono signals .
-TS (Tip-Sleeve): A type of connector with two conductive parts, commonly used for mono audio or control voltage signals .
-Unit (U): A unit of measurement for the height of Eurorack cases, with each row typically being 3U .
-V (Voltage): Refers to the electromagnetic pressure of a power source .
-Vactrol: A light-dependent resistor placed next to a light source, used in some modules to control parameters with a characteristic slow response .
-VCA (Voltage Controlled Amplifier): An amplifier whose level parameter can be controlled and modulated by a voltage input .
-VCF (Voltage Controlled Filter): A filter whose parameters, such as cutoff frequency, can be controlled and modulated by a voltage input .
-VCO (Voltage Controlled Oscillator): An analog oscillator whose parameters, most commonly pitch/frequency, can be controlled and modulated by a voltage input .
-Velocity: In MIDI, the force with which a key is pressed, often translated to control parameters like volume or filter cutoff in Eurorack via MIDI-to-CV converters .
-Wavefolder: A specific type of waveshaping that inverts the peaks of a waveform into a series of folds once its amplitude exceeds a set threshold .
-Waveform: The shape of a periodic signal, such as sine, square, sawtooth, or triangle .
-Waveshaper: A device or circuit that transforms one type of waveform into another .
-West Coast Synthesis: An approach to electronic instrument design, inspired by Donald Buchla, often involving complex waveform generation and audio rate modulation.
+**Pulse Width**: The duration of the high portion of a pulse wave or square wave's cycle.
+
+**Quantizer**: A device or module that receives a continuous voltage signal and outputs the nearest voltage corresponding to a note in a selected musical scale.
+
+**Rack**: See Case.
+
+**Ramp**: A voltage that steadily rises or falls, often used to describe the shape of certain waveforms or envelope stages.
+
+**Ratchet**: A sequencing technique that causes certain notes to repeat multiple times at a faster rate than a set clock rate.
+
+**Release**: The final stage of an envelope, determining the time it takes for the signal to fall from the sustain level to zero after the gate is released.
+
+**Resonance**: A boost in amplitude at or near the cutoff frequency of a filter.
+
+**Ring Modulator**: A type of sound processor that manipulates the amplitude of a carrier signal with another signal (modulator), resulting in an output containing only sum and difference frequencies.
+
+**Sample and Hold**: A device that captures the value of a continuous analog signal at its input and holds it at the output for a duration specified by a trigger.
+
+**Sawtooth Wave**: A waveform characterized by a sharp rise and gradual fall, rich in harmonics.
+
+**Sequencer**: A hardware or software controller device used to record and organize musical events across single or multiple playable timelines.
+
+**Semi-Modular Synth**: A synthesizer with default internal signal connections that can be overridden using patch points.
+
+**Sine Wave**: A basic analog waveform with evenly-spaced curves and a smooth tone, often referred to as the fundamental.
+
+**Skiff**: A portable, shallow enclosure for Eurorack modular synthesizers.
+
+**Slew Limiter**: A circuit that limits a signal's possible rate of change, often used to smooth jittery signals or create glide/portamento effects. Also known as a Slope Generator or Lag Processor.
+
+**Square Wave**: A waveform that alternates abruptly between two voltage levels, rich in odd harmonics.
+
+**Stereo**: An audio signal with two channels, typically left and right.
+
+**Strike**: An input found on some modules that use vactrols, designed to create percussive sounds and attacks.
+
+**Subtractive Synthesis**: A synthesis technique that creates sounds by filtering harmonically rich waveforms to shape their timbre.
+
+**Sustain**: The level at which the signal is held while the gate is active in an ADSR envelope.
+
+**Sync**: In the context of oscillators, a mode where one oscillator resets its waveform based on the cycle of another oscillator.
+
+**Synthesis**: The process of creating sound electronically.
+
+**Tempo**: The speed or pace of a musical piece, often measured in beats per minute (BPM).
+
+**Through-Zero FM**: A type of frequency modulation where the carrier frequency can go below zero, resulting in cleaner and more harmonically rich FM sounds.
+
+**Track & Hold**: A variation of Sample & Hold where the output tracks the input voltage while the gate is high and holds the last value when the gate goes low.
+
+**Tracking**: Refers to how well an oscillator follows the pitch control voltage sent to it.
+
+**Transistor Ladder Filter**: An iconic low-pass filter design, known for its warm, round, bassy response.
+
+**Trigger**: A brief, instantaneous pulse of voltage used to initiate a specific action within a module.
+
+**Triangle Wave**: A waveform with a symmetrical triangular shape, containing only odd harmonics.
+
+**TRS (Tip-Ring-Sleeve)**: A type of connector with three conductive parts, commonly used for stereo audio or balanced mono signals.
+
+**TS (Tip-Sleeve)**: A type of connector with two conductive parts, commonly used for mono audio or control voltage signals.
+
+**Unit (U)**: A unit of measurement for the height of Eurorack cases, with each row typically being 3U.
+
+**V (Voltage)**: Refers to the electromagnetic pressure of a power source.
+
+**Vactrol**: A light-dependent resistor placed next to a light source, used in some modules to control parameters with a characteristic slow response.
+
+**VCA (Voltage Controlled Amplifier)**: An amplifier whose level parameter can be controlled and modulated by a voltage input.
+
+**VCF (Voltage Controlled Filter)**: A filter whose parameters, such as cutoff frequency, can be controlled and modulated by a voltage input.
+
+**VCO (Voltage Controlled Oscillator)**: An analog oscillator whose parameters, most commonly pitch/frequency, can be controlled and modulated by a voltage input.
+
+**Velocity**: In MIDI, the force with which a key is pressed, often translated to control parameters like volume or filter cutoff in Eurorack via MIDI-to-CV converters.
+
+**Wavefolder**: A specific type of waveshaping that inverts the peaks of a waveform into a series of folds once its amplitude exceeds a set threshold.
+
+**Waveform**: The shape of a periodic signal, such as sine, square, sawtooth, or triangle.
+
+**Waveshaper**: A device or circuit that transforms one type of waveform into another.
+
+**West Coast Synthesis**: An approach to electronic instrument design, inspired by Donald Buchla, often involving complex waveform generation and audio rate modulation.
