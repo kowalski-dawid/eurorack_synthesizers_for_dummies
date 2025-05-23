@@ -6,6 +6,7 @@ cover: >-
 coverY: 0
 ---
 
+---
 # Module Types
 
 Eurorack synthesizer systems are built from a wide variety of modules, each serving a specific function. Below are the main categories of Eurorack modules, along with three of the most popular modules in each category.
