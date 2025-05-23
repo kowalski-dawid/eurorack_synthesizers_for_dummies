@@ -68,9 +68,9 @@ Modular synthesis has gained significant popularity for several reasons:
 
 **Hand-Assembled Units**: Some modules are hand-assembled and tested, which increases labor costs but ensures attention to detail and quality control.
 
-2.3. **Research and Development (R\&D)**
+2.3. **Research and Development (R&D)**
 
-**Innovative Designs:** Developing new and innovative modules requires significant R\&D, including circuit design, prototyping, and testing.
+**Innovative Designs:** Developing new and innovative modules requires significant R&D, including circuit design, prototyping, and testing.
 
 **Specialized Knowledge**: The designers often have deep expertise in electronics and sound design, which commands higher compensation.
 
