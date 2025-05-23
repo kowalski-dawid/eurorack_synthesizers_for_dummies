@@ -16,7 +16,7 @@
 ## A Deep Dive Into the Modular Madness
 
 * [Notable Manufacturers of Eurorack Modules and Equipment](2-a-deep-dive-into-the-modular-madness/2-1-notable-manufacturers-of-eurorack-modules-and-equipment.md)
-* [Technical Specification of Eurorack Synthesizers](2-a-deep-dive-into-the-modular-madness/2-2-technical-specifications-of-eurorack-synthesizers.md)
+* [Technical Specifications of Eurorack Synthesizers](2-a-deep-dive-into-the-modular-madness/2-2-technical-specifications-of-eurorack-synthesizers.md)
 
 ## A Rundown of Eurorack Synth Components
 
@@ -37,4 +37,4 @@
 
 ## Contributors
 
-* [\[Credits\]\[(6-contributors/6-1-credits.md)\]](contributors/credits-6-contributors-6-1-credits.md.md)
+* [Credits](contributors/credits.md)
