@@ -1,7 +1,8 @@
 ---
 description: Does that thing run on batteries?
 icon: crate-empty
-cover:../.gitbook/assets/Moog-60HP-powered-eurorack-case.jpg
+cover: >-
+../.gitbook/assets/Moog-60HP-powered-eurorack-case.jpg
 coverY: 0
 ---
 

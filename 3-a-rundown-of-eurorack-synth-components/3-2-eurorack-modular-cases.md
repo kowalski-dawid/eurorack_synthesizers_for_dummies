@@ -1,7 +1,8 @@
 ---
 description: You gotta have a good case for that expensive synth, bro!
 icon: objects-column
-cover:../.gitbook/assets/pexels-theplanetspeaks-9314143.jpg
+cover: >-
+../.gitbook/assets/pexels-theplanetspeaks-9314143.jpg
 coverY: 0
 ---
 
