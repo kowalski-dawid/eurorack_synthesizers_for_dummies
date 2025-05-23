@@ -8,3 +8,40 @@ coverY: 0
 
 # Index
 
+### Introduction/Index
+
+* Eurorack Synthesizers for Dummies
+* Introduction
+* FAQ
+* Index
+
+### An Introduction to Eurorack Modular Synthesis
+
+* A Brief Introduction to Eurorack Modular Synthesis
+* The History of Eurorack Synthesizers
+
+### A Deep Dive Into the Modular Madness
+
+* Notable Manufacturers of Eurorack Modules and Equipment
+* Technical Specification of Eurorack Synthesizers
+
+### A Rundown of Eurorack Synth Components
+
+* Module Types
+* Eurorack Modular Cases
+* Eurorack Modular Power Supply
+* Installation and Assembly Instructions
+
+### The War of Arts in the Modular World
+
+* Notable Artists in the World of Modular Synthesis
+
+### Literature and References
+
+* Literature and References
+* Glossary of Terms
+* List of Images
+
+### Contributors
+
+* Credits
