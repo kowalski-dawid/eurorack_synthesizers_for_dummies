@@ -11,7 +11,7 @@
 ## An Introduction to Eurorack Modular Synthesis
 
 * [A Brief Introduction to Eurorack Modular Synthesis](1-an-introduction-to-eurorack-modular-synthesis/1-1-a-brief-introduction-to-eurorack-modular-synthesizers.md)
-* [The History of Eurorack Synthesizers](1-an-introduction-to-eurorack-modular-synthesis/1-2-the-history-of-eurorack-synthesizers.md)
+* [The History of Eurorack Synthesizers](an-introduction-to-eurorack-modular-synthesis/the-history-of-eurorack-synthesizers.md)
 
 ## A Deep Dive Into the Modular Madness
 
@@ -22,7 +22,7 @@
 
 * [Module Types](3-a-rundown-of-eurorack-synth-components/3-1-module-types.md)
 * [Eurorack Modular Cases](3-a-rundown-of-eurorack-synth-components/3-2-eurorack-modular-cases.md)
-* [Eurorack Modular Power Supply](3-a-rundown-of-eurorack-synth-components/3-3-eurorack-modular-power-supply.md)
+* [Eurorack Modular Power Supply](a-rundown-of-eurorack-synth-components/eurorack-modular-power-supply.md)
 * [Installation and Assembly Instructions](3-a-rundown-of-eurorack-synth-components/3-4-installation-and-assembly-instructions.md)
 
 ## The War of Arts in the Modular World
@@ -37,4 +37,4 @@
 
 ## Contributors
 
-* [Credits](6-contributors/6-1-credits.md)
+* [\[Credits\]\[(6-contributors/6-1-credits.md)\]](contributors/credits-6-contributors-6-1-credits.md.md)
