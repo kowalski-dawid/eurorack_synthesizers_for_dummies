@@ -37,4 +37,4 @@
 
 ## Contributors
 
-* [Credits][(6-contributors/6-1-credits.md)]
+* [Credits](6-contributors/6-1-credits.md)
